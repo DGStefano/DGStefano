@@ -23,8 +23,6 @@ Here are some of the technologies and tools I frequently work with:
 - **Bioinformatics Tools**:
   ![Bioconductor](https://img.shields.io/badge/-Bioconductor-333?style=flat&logo=bioconductor)
   ![Nextflow](https://img.shields.io/badge/-Nextflow-333?style=flat&logo=nextflow)
-  ![Snakemake](https://img.shields.io/badge/-Snakemake-333?style=flat&logo=snakemake)
-  ![Biopython](https://img.shields.io/badge/-Biopython-333?style=flat&logo=biopython)
 
 - **Data Analysis**:
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
@@ -49,4 +47,4 @@ I'm currently exploring new techniques in:
 Feel free to reach out or follow my work on these platforms:
 
 - 💼 **LinkedIn**: [Stefano Di Giovenale](https://www.linkedin.com/in/stefano-di-giovenale-bioinformatician/)
-- 🐦 **Twitter**: [StefanoDiggio]([https://twitter.com/yourhandle](https://twitter.com/StefanoDiggio))
+- 🐦 **Twitter**: [@StefanoDiggio](https://twitter.com/StefanoDiggio)
