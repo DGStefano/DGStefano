@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Stefano Di Giovenale!
 
 I am a **Bioinformatician** with a passion for developing computational methods to analyze biological data. I love combining biology, mathematics, and computer science to understand complex biological systems and drive innovative research.
 
